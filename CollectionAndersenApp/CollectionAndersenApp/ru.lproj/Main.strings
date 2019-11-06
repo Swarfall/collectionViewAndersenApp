@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "5u8-9o-97I"; */
+"5u8-9o-97I.text" = "Логин";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "6WS-GT-gIc"; */
+"6WS-GT-gIc.placeholder" = "пароль";
+
+/* Class = "UITextField"; placeholder = "emain"; ObjectID = "CLE-fQ-QQg"; */
+"CLE-fQ-QQg.placeholder" = "имейл";
+
+/* Class = "UIButton"; normalTitle = "Enter"; ObjectID = "kTR-UI-C4V"; */
+"kTR-UI-C4V.normalTitle" = "Вход";
